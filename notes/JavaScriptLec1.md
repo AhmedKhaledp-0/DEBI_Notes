@@ -112,7 +112,9 @@ console.log(`${object.name} is ${object.age}`); //mohammed is 19
 ```
 
 `array` is a list of values
+
 `index` of a array start form 0,1,2,........
+
 `array` can get more than data type (primitive & non-primitive)
 
 `object` is a `key` and a `value`
@@ -182,7 +184,9 @@ if (t || f) {
 ```
 
 `!` mean not
+
 `&&` mean and : Both value should be `true`
+
 `||` mean or : One value should be `true`
 
 ---
