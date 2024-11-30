@@ -115,7 +115,7 @@ console.log(`${object.name} is ${object.age}`); //mohammed is 19
 `index` of a array start form 0,1,2,........
 `array` can get more than data type (primitive & non-primitive)
 
-`opject` is a `key` and a `value`
+`object` is a `key` and a `value`
 
 **We use `typeof()` function to know the type of a value**
 
@@ -158,26 +158,26 @@ let z = 10;
 let t = true;
 let f = false;
 if (t){
-	console.log{"that is true"} //that is true
+ console.log{"that is true"} //that is true
 } else {
-	console.log{"that is false"}
+ console.log{"that is false"}
 }
 
 if (!t){
-	console.log{"that is true"}
+ console.log{"that is true"}
 } else {
-	console.log{"that is false"} //that is false
+ console.log{"that is false"} //that is false
 }
 
 
 if (t && f) {
  console.log("both true and false is true"); //both true and false is't true
 } else {
-	console.log("both true and false is't true");
+ console.log("both true and false is't true");
 }
 
 if (t || f) {
-	console.log("both true or false is true"); //both true or false is true
+ console.log("both true or false is true"); //both true or false is true
 }
 ```
 
@@ -205,11 +205,11 @@ if (t || f) {
 ```javascript
 /*
 if(condition){
-	true result
+ true result
 }else if(another condition){
-	another true result
+ another true result
 }else{
-	false result
+ false result
 }
 */
 let open = true;
@@ -219,13 +219,13 @@ let number = 15;
 if (open == true) {
   console.log("yes"); //yee
 } else {
-  consloe.log("no");
+  console.log("no");
 }
 
 if (number == 25) {
   console.log("yes");
 } else {
-  consloe.log("no"); //no
+  console.log("no"); //no
 }
 ```
 
