@@ -256,8 +256,7 @@ names.map((name) => {
 //Fahmy;
 //Asmaa;
 let hiNames = names.map((name) => `hi ${name}`);
-console.log(hiNames);
-7; // ['hi Samy', 'hi Khaled', 'hi Tasnim', 'hi Naira', 'hi Abdo', 'hi Fahmy', 'hi Asmaa']
+console.log(hiNames); //(7) ['hi Samy', 'hi Khaled', 'hi Tasnim', 'hi Naira', 'hi Abdo', 'hi Fahmy', 'hi Asmaa']
 
 let namesFilter = names.filter((name) => names.length > 5);
 console.log(namesFilter); //(2) ['Khaled', 'Tasnim']
