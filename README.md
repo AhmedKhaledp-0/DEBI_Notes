@@ -8,4 +8,4 @@
 - [`Lec 2`](/notes/JavaScriptLec2.md)
 - [`Lec 3`](/notes/JavaScriptLec3.md)
 - [`Lec 4`](/notes/JavaScriptLec4.md)
-
+- [`Lec 5`](/notes/JavaScriptLec5.md)
