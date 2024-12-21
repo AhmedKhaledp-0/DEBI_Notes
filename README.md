@@ -1,14 +1,14 @@
-# DEBI
+# DEPI Notes
 
 > Supervisor: Eng. Mohammed Abd_Elsalam
 
 ## Overview
 
-This repository contains lecture notes and examples for the DEBI course. The course covers various topics in JavaScript and Bootstrap, providing both theoretical knowledge and practical examples.
+This repository contains lecture notes and examples for the DEPI course. The course covers various topics in JavaScript and Bootstrap, providing both theoretical knowledge and practical examples.
 
 ## Table of Contents
 
-- [DEBI](#debi)
+- [DEPI Notes](#depi-notes)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [JavaScript Lectures](#javascript-lectures)
